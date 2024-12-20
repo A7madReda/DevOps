@@ -122,5 +122,5 @@ qmrestore /var/lib/vz/dump/vzdump-qemu-2001-*.vma.zst 2001 --storage local
 ## Additional Resources
 
 - [Proxmox VE Documentation](https://pve.proxmox.com/wiki/Main_Page)
-- [Proxmox Backup & Restore Documentation]([https://pve.proxmox.com/wiki/Backup_and_Restore](https://cyanlabs.net/tutorials/install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/)
+- [Proxmox Backup & Restore Documentation](https://cyanlabs.net/tutorials/install-proxmox-on-a-hetzner-dedicated-server-with-1-ip-using-sdn-and-without-kvm-using-qemu/)
 - [Proxmox Backup Documentation](https://pve.proxmox.com/wiki/Backup_and_Restore)
